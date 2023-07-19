@@ -1,6 +1,9 @@
-# Hello! I'm Gabriel Mendes
+# Hello! I'm Gabriel Mendes!
+
+### biography
 
 <p>I'm a student learning new technologies and I want to be a future backend developer</p>
+<p>I'm currently 18 years old and had my first contact with programming at the age of 13 in 2018 where I had my first commit on GitHub  🥰</p>
 
 ## My stack
 
@@ -49,7 +52,7 @@
   <tr>
     <td>
       <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="50" height="50" alt="" title="" class="img-small">
-      <p>React</p>
+      <p>&zwnj; React</p>
     </td>
     <td>
       <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS Logo" width="50" height="50">
