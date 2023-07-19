@@ -60,3 +60,13 @@
     </td>
   </tr>
 </table>
+
+
+## contact
+
+<a href="gabrielzmendes1@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="http://web.whatsapp.com/send?phone=5511976517582" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Whatsapp-2DB540?style=for-the-badge&labelColor=whatsapp&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
+</a>
