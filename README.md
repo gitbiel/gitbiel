@@ -58,6 +58,10 @@
       <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS Logo" width="50" height="50">
       <p>NestJS</p>
     </td>
+    <td>
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="50" height="50" alt="" title="" class="img-small">
+      <p>TypeScript</p>
+    </td>
   </tr>
 </table>
 
