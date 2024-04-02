@@ -34,7 +34,7 @@
     </td>
     <td>
       <img src="https://cdn-icons-png.flaticon.com/512/9544/9544010.png" width="50" height="50" alt="" title="" class="img-small">
-      <p>SQLite3</p>
+      <p>SQL</p>
     </td>
     <td><img src="https://cdn-icons-png.flaticon.com/512/10910/10910569.png" width="50" height="50" alt="" title="" class="img-small">
       <p>&zwnj; GIT</p>
