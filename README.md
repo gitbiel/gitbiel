@@ -25,6 +25,10 @@
       <p>JavaScript</p>
     </td>
     <td>
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="50" height="50" alt="" title="" class="img-small">
+      <p>TypeScript</p>
+    </td>
+    <td>
       <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="50" height="50" alt="" title="" class="img-small">
       <p>NodeJS</p>
     </td>
@@ -45,26 +49,6 @@
     </td>
   </tr>
 </table>
-
-## Learning
-
-<table>
-  <tr>
-    <td>
-      <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="50" height="50" alt="" title="" class="img-small">
-      <p>&zwnj; React</p>
-    </td>
-    <td>
-      <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS Logo" width="50" height="50">
-      <p>NestJS</p>
-    </td>
-    <td>
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="50" height="50" alt="" title="" class="img-small">
-      <p>TypeScript</p>
-    </td>
-  </tr>
-</table>
-
 
 ## contact
 
