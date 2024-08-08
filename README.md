@@ -3,7 +3,7 @@
 ### biography
 
 <p>I'm a student learning new technologies and I want to be a future backend developer</p>
-<p>I'm currently 18 years old and had my first contact with programming at the age of 13 in 2018 where I had my first commit on GitHub  🥰</p>
+<p>I'm currently 19 years old and had my first contact with programming at the age of 13 in 2018 where I had my first commit on GitHub  🥰</p>
 
 ## My stack
 
