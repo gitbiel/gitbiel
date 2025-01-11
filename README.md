@@ -3,7 +3,7 @@
 ## 👋 Hi, I’m Gabriel Mendes!
 
 - 🌱 I’m currently learning and improving Clean Architecture, DDD, SOLID, NestJS  
-- 📫 How to reach me:  https://www.linkedin.com/in/gabriel-mendes-57678a285/
+- 📫 How to reach me:  https://www.linkedin.com/in/gabriel-femendes/
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> My stack
 
 ### Languages and Frameworks
@@ -37,7 +37,7 @@
 
 ## ✉ Contact
 
-<a href="https://www.linkedin.com/in/gabriel-mendes-57678a285/" target="_blank">
+<a href="https://www.linkedin.com/in/gabriel-femendes/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a href="mailto:gabrielzmendes1@gmail.com" target="_blank">
